@@ -1,0 +1,17 @@
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.deps.json
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.runtimeconfig.json
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.runtimeconfig.dev.json
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.dll
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.pdb
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.csproj.AssemblyReference.cache
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.AssemblyInfoInputs.cache
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.AssemblyInfo.cs
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.csproj.CoreCompileInputs.cache
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.dll
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.pdb
+C:\Users\CENTI\Desktop\ASPNETCore20-Parte2-master\ASPNETCore20-Parte2-master\Aulas\Aula5\depois\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula5.depois.genruntimeconfig.cache
