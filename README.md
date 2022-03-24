@@ -1,6 +1,20 @@
 # e-Commerce
 ASP.NET Core um e-Commerce com MVC e EF Core com carrinho de compras usando SQL server.
 
+
+
+
+
+
+https://user-images.githubusercontent.com/98243722/160009804-e21b599a-3ec1-437e-86e7-8166cfd1a231.MOV
+
+
+
+
+
+
+
+
 ![Screenshot_1](https://user-images.githubusercontent.com/98243722/159963341-9dbc0dd5-a36a-4daa-bad3-eb7621da2220.png)
 
 
