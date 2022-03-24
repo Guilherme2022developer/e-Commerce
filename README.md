@@ -16,7 +16,7 @@ ASP.NET Core um e-Commerce com MVC e EF Core com carrinho de compras usando SQL 
 
 
 
-# Pedido final Gerando Número.
+# Pedido final Gerando Número do pedido.
 
 
 
